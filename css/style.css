@@ -1,0 +1,23 @@
+/* 
+    Document   : style
+    Created on : 11/10/2013, 15:52:50
+    Author     : Rafael
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+
+body {
+	background: #000 url(images/4.jpg) no-repeat;
+        
+}
+
+#container {
+	width: 900px;
+	margin: 50px auto;
+}
+
